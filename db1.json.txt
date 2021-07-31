@@ -1,0 +1,61 @@
+
+{
+"patient": [
+      {
+        "ID": 100121,
+        "Country": "India",
+        "Covaxin":6000,
+         "Covishield":10000,
+          "Sputnik-v":1000,
+          "Total Vaccination":17000
+      },
+      {
+         "ID": 100122,
+        "Country": "China",
+        "Covaxin":2000,
+         "Covishield":7000,
+          "Sputnik-v":1000,
+          "Total Vaccination":10000
+      },
+      {
+         "ID": 100123,
+        "Country": "United States",
+        "Covaxin":1000,
+         "Covishield":9000,
+          "Sputnik-v":1500,
+          "Total Vaccination":11500
+      },
+ {  
+        "ID": 100124,
+        "Country": "Brazil",
+       "Covaxin":9000,
+       "Covishield":1200,
+        "Sputnik-v":1400,
+        "Total Vaccination":11600
+      },
+ {
+         "ID": 100125,
+        "Country": "Russia",
+         "Covaxin":1000,
+         "Covishield":9000,
+          "Sputnik-v":1500,
+          "Total Vaccination":11500
+      },
+{
+        "ID": 100126,
+        "Country": "United Kingdom",
+         "Covaxin":1000,
+         "Covishield":9000,
+          "Sputnik-v":1500,
+          "Total Vaccination":11500
+},
+{
+         "ID": 100127,
+        "Country": "France",
+         "Covaxin":1000,
+         "Covishield":9000,
+          "Sputnik-v":1500,
+          "Total Vaccination":11500
+}
+    ]
+  }

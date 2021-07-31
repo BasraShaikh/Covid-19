@@ -1,0 +1,54 @@
+{
+  "patient": [
+        {
+          "ID": 100121,
+          "Country": "India",
+          "Corona":6000,
+           "White Fungus":120,
+            "Black Fungus":108
+        },
+        {
+           "ID": 100122,
+          "Country": "China",
+          "Corona":4000,
+           "White Fungus":140,
+            "Black Fungus":115
+        },
+        {
+           "ID": 100123,
+          "Country": "United States",
+          "Corona":2000,
+           "White Fungus":170,
+            "Black Fungus":130
+        },
+   {  
+          "ID": 100124,
+          "Country": "Brazil",
+          "Corona":1400,
+           "White Fungus":145,
+            "Black Fungus":115
+        },
+   {
+           "ID": 100125,
+          "Country": "Russia",
+          "Corona":500,
+           "White Fungus":115,
+            "Black Fungus":111
+        },
+  {
+          "ID": 100126,
+          "Country": "United Kingdom",
+          "Corona":4000,
+           "White Fungus":180,
+            "Black Fungus":150
+  },
+  {
+           "ID": 100127,
+          "Country": "France",
+          "Corona":6000,
+           "White Fungus":150,
+            "Black Fungus":120
+  }
+      ]
+    }
+  

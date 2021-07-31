@@ -1,0 +1,16 @@
+ <mat-toolbar color="primary">
+    <span>COVID-19 Dashboard</span>
+    <span class="example-spacer"></span>
+    <button mat-icon-button class="example-icon home-icon" routerLink="/home" routerLinkActive="activebutton" aria-label="Example icon-button with home icon">
+      <mat-icon>home</mat-icon>
+    </button>
+    <button mat-button [matMenuTriggerFor]="menu">Symptoms</button>
+<!-- #enddocregion mat-menu-trigger-for -->
+<mat-menu #menu="matMenu">
+  <button mat-menu-item (click)="openDialog()">Corona</button>
+  <button mat-menu-item (click)="openWhiteFungusDialog()">White Fungus</button>
+  <button mat-menu-item (click)="openBlackFungusDialog()">Black Fungus</button>
+</mat-menu>
+
+<button mat-button color="basic" routerLink="/vaccination" routerLinkActive="activebutton">vaccination</button>
+</mat-toolbar>
